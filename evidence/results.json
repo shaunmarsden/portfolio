@@ -1,0 +1,81 @@
+{
+  "prepared": "2026-11-16",
+  "evidence_kind": "Sanitised declared aggregates, not raw responses or independently validated outcomes",
+  "source_base_commit": "9f39f77d52686a09bfa63ac6a2a023616b819fc2",
+  "reliable_automation": {
+    "record": "FINDINGS.md and Hardening Review - 2026-11-08.md",
+    "original_experiment_candidate": "bc9de63",
+    "scenarios": 24,
+    "original_episodes": 216,
+    "eligible_postings_per_pass": 66,
+    "correct_single_postings": {
+      "manual_simulated": 60,
+      "basic": 40,
+      "controlled": 60
+    },
+    "duplicate_postings": {
+      "manual_simulated": 0,
+      "basic": 12,
+      "controlled": 0
+    },
+    "recoverable_scenarios": 6,
+    "recovered": {
+      "manual_simulated": 6,
+      "basic": 2,
+      "controlled": 6
+    },
+    "later_project_test_count": 47,
+    "limit": "Synthetic, repeated authored scenarios; manual effort assumed; no ROI or live integration"
+  },
+  "model_evaluation": {
+    "record": "Evaluation Lab README dated live-run section and Guard Repair Evidence - 2026-11-07.md",
+    "historical_live_date": "2026-10-21",
+    "authored_cases": 48,
+    "repeats": 3,
+    "responses": 144,
+    "automatically_correct": 128,
+    "critical_miss_occurrences": 3,
+    "false_escalations": 2,
+    "later_deterministic_holdout": {
+      "before": 15,
+      "after": 30,
+      "cases": 30,
+      "labels": "agent-authored, not independent"
+    },
+    "residual_replay_routing_errors": {
+      "deterministic": 9,
+      "saved_model_with_controls": 13
+    },
+    "project_test_count": 119,
+    "limit": "Historical raw responses are private; routing scores do not prove answer truth or general safety"
+  },
+  "human_approved_workflow": {
+    "record": "Service Request Workflow README, 26 October technical verification",
+    "walkthrough_commands": 34,
+    "requests": 6,
+    "decisions": 6,
+    "actions": 2,
+    "audit_events": 14,
+    "additional_mock_recovery_commands": 18,
+    "mock_adapter_attempts": 2,
+    "mock_side_effects": 1,
+    "project_test_count": 29,
+    "limit": "Scripted reviewer fixtures, local roles and mock effects; not personally operated or independently validated"
+  },
+  "attribution": {
+    "shaun": "Set requirements and authorised work; ran original live-model evaluation from Terminal",
+    "codex": "Assisted implementation, offline analysis, scripted demonstrations and tests",
+    "independent_human_validation": "NOT PERFORMED",
+    "production_deployment": "NOT ESTABLISHED",
+    "measured_employer_roi": "NOT ESTABLISHED"
+  },
+  "public_kit_verification": {
+    "date": "2026-11-16",
+    "automation_tests": 47,
+    "evaluator_subset_tests": 12,
+    "workflow_tests": 29,
+    "total_passed": 88,
+    "provider_calls": 0,
+    "review_kind": "automated and agent-operated, not independent validation"
+  }
+}

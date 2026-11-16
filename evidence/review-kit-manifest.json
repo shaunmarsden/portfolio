@@ -1,0 +1,91 @@
+{
+  "base_commit": "9f39f77d52686a09bfa63ac6a2a023616b819fc2",
+  "kind": "selected unchanged source and fictional test fixtures; not raw historical evidence",
+  "files": [
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Evaluation Lab/cases_v2.json",
+      "bytes": 5222,
+      "sha256": "1b26b728c3c8972dfddd0cedefd3944d525de99596685a9efaf85d0c1bc0accd"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Evaluation Lab/evaluate_v2.py",
+      "bytes": 9420,
+      "sha256": "76cd7b71072087fc20efe4e6c310dec86757af702957844f2efcf70ddff2f29c"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Evaluation Lab/holdout_v2.json",
+      "bytes": 2759,
+      "sha256": "edd666e8d741d74f955ebcfd28b5b376b91387aadb80a28168059f585b44cd47"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Evaluation Lab/model_runner.py",
+      "bytes": 37367,
+      "sha256": "78d4ba39b96ed5ee96c57daeedbc484bdcd3ada740976674f5112f5640d1c578"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Evaluation Lab/test_evaluate_v2.py",
+      "bytes": 4039,
+      "sha256": "8bec514b20857bcfb77283ca0c7fb37b634fe1163fd54615e06bdbdf7884aacf"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Public Document Research/public_research.py",
+      "bytes": 24510,
+      "sha256": "e0dcf6af521c3bf96f8c51a65d978eb5ac1024922cbb7bc8aaaa8d067505cc0f"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Public Document Research/public_sources.json",
+      "bytes": 588,
+      "sha256": "597c554ff3a5ce1e7e06257d449f49ad5774fe7a50b97014250f79fc0cff55e6"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Reliable Automation Lab/challenge.json",
+      "bytes": 32750,
+      "sha256": "105e7bd4e79d819e3eefd5bb1998ed571f9da151c8a20d27304a9eecc9277393"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Reliable Automation Lab/experiment.py",
+      "bytes": 13626,
+      "sha256": "6df2d20224cbf1c9f8c6f924f678bdba0fd9257406d0f8e8936faac19dee883e"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Reliable Automation Lab/freeze.json",
+      "bytes": 302,
+      "sha256": "d3c32b7352fe88358e19923209d06f0990570e3f3cb81c97a3852dedbfbc23ee"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Reliable Automation Lab/protocol.json",
+      "bytes": 4705,
+      "sha256": "f10a92840f90a9af7d515380d07ffd5d022243a50432df665ac29094c2b5293c"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Reliable Automation Lab/test_recovery_edges.py",
+      "bytes": 11243,
+      "sha256": "59ca65b234021cb60cfc60128cd084e6741dfb82193a0d2cc500eb42830dabf2"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Reliable Automation Lab/test_transfer.py",
+      "bytes": 15409,
+      "sha256": "5673ccc12ca573eed063dbfba555dc6d13048214278307ef7d75134326a5d365"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Reliable Automation Lab/transfer.py",
+      "bytes": 18212,
+      "sha256": "cf3201c7da713801e6109b7bb95a54a169606a15127a5d93abef8fd72a4f1af3"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Service Request Workflow/example_requests.json",
+      "bytes": 1043,
+      "sha256": "a7881d1962b1ed7702d83aaeec0febb028196994bb60fbe4bc185223b0eeb3f4"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Service Request Workflow/service_workflow.py",
+      "bytes": 17042,
+      "sha256": "4aaaf328ad02b6b72fefafe89d5d18d3016f9aba26ba644b5611baf7fdd41a33"
+    },
+    {
+      "path": "Personal AI Knowledge Base/03 - Consulting Practice/Service Request Workflow/test_service_workflow.py",
+      "bytes": 19987,
+      "sha256": "49141bc740953b5cd785b00398de1e4ffaa0e17ec5faa0c30a80dc35e4ddb7e4"
+    }
+  ]
+}
